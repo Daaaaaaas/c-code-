@@ -1,3 +1,4 @@
+//7)Convert seconds into hours, minutes & seconds and print in HH:MM:SS.
 #include<stdio.h>
 void main(){
  int Hours,Minutes,Seconds,n;
