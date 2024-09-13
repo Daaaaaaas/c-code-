@@ -1,3 +1,5 @@
+//first entry 
+               
 #include<stdio.h>
 
 void main(){
