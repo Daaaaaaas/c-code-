@@ -1,3 +1,4 @@
+//6) Print simple interest. (principal*roi*time period)/100 .
 #include <stdio.h>
 
 void main(){
