@@ -1,3 +1,5 @@
+//3) Print addition of 2 numbers ( without scanf)
+
 
 #include<stdio.h>
 
